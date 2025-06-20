@@ -15,8 +15,9 @@ data_researcher is an open-source Python framework designed to **automate explor
 ## 📌 Installation
 
 You can install data_researcher via pip:
-
+```
 pip install data_researcher
+```
 
 ## 📖 Quickstart
 
